@@ -1,4 +1,4 @@
-![438586961-6d9286e3-a97e-40dc-9470-a47a56f5c3d8](https://github.com/user-attachments/assets/b5fe2c0a-c95e-4acc-9864-6d0d42f7b494)# Datatypes-Character Literal in Python
+# Datatypes-Character Literal in Python
 
 ## 🎯 Aim
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
